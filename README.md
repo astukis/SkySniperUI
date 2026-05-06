@@ -2,9 +2,8 @@
 
 A lightweight Svelte application that provides a web interface for the **SkySniper** camera system. It includes:
 
-* Live sensor preview and capture controls (ISO, exposure, RAW toggle).
-* Image gallery with pagination, RAW badge, and per‑image loading spinner.
-* Simple UI for resetting settings and downloading images.
+* Live sensor preview and minimalistic capture controls 
+* Image gallery with pagination, ability to download images in both DNG and JPG
 
 ## Quick start
 
